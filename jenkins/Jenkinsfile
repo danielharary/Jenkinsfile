@@ -8,3 +8,4 @@ pipeline {
         }
     }
 }
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIO4vcMLVP1TwG5RpSaqzzklvTynsE+qyP5QRPkIwLx5G danielharary100@gmail.com
